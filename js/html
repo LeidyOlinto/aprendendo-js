@@ -1,0 +1,19 @@
+<doctype html>
+<html>
+    <head>
+        <title>Exempolo</title>
+        <script src="./js.txt" src="./css"></script>
+
+    </head>
+    <body>
+        <div> Texto
+            <div class="form" >
+                <input id="nome" name="nome" placeholder="Nome">
+                <input type="password" id="senha" nome="senha" placeholder="Senha">
+                <input type="password" id="senha2" name="senha2" placeholder="confirme senha ">
+                <button onclick="validar" form() >
+                Enviar</button>
+            </div>
+        </div>
+    </body>
+</html>
